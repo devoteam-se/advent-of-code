@@ -2,7 +2,8 @@
 
 https://adventofcode.com/2016
 
-Add a link to your repo under the matching lanugage header. Using another language? Add it to the list (in alphabetical order)!
+Add a link to your repo under the matching lanugage header.  
+Using another language? Add it to the list (in alphabetical order)!
 
 ## F# #
 
