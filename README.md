@@ -7,3 +7,6 @@ Add a link to your repo under the matching lanugage header. Using another langua
 ## F# #
 
 https://github.com/tlycken/advent-of-code-2016
+
+## Haskell
+https://github.com/AntonFagerberg/advent_of_code_2016
