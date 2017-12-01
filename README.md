@@ -9,6 +9,9 @@ Using another language? Add it to the list (in alphabetical order)!
 
 https://github.com/tlycken/advent-of-code-2017
 
+### C# #
+https://github.com/msjogren/AdventOfCode2017
+
 ## 2016
  
 https://adventofcode.com/2016
@@ -25,3 +28,6 @@ https://github.com/fjodorekstromjayway/adv-o-c-2016
 
 ### Python
 https://github.com/Prozen/AdventOfCode2016
+
+### C# #
+https://github.com/msjogren/AdventOfCode2016
