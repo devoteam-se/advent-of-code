@@ -9,11 +9,9 @@ Using another language? Add it to the list (in alphabetical order)!
 https://github.com/msjogren/AdventOfCode2017
 
 ### F# #
-
 https://github.com/tlycken/advent-of-code-2017
 
 ### Python
-
 https://github.com/JacobFerm/advent-of-code-2017
 
 ## 2016
@@ -28,6 +26,9 @@ https://github.com/tlycken/advent-of-code-2016
 
 ### Haskell
 https://github.com/AntonFagerberg/advent_of_code_2016
+
+### Java
+https://github.com/larsostling/adventofcode2016
 
 ### Purescript
 https://github.com/fjodorekstromjayway/adv-o-c-2016
