@@ -1,19 +1,27 @@
-# Jayway solutions to Advent of Code 2016
-
-https://adventofcode.com/2016
+# Jayway solutions to Advent of Code
 
 Add a link to your repo under the matching language header.  
 Using another language? Add it to the list (in alphabetical order)!
 
-## F# #
+## 2017
+
+### F# #
+
+https://github.com/tlycken/advent-of-code-2017
+
+## 2016
+ 
+https://adventofcode.com/2016
+
+### F# #
 
 https://github.com/tlycken/advent-of-code-2016
 
-## Haskell
+### Haskell
 https://github.com/AntonFagerberg/advent_of_code_2016
 
-## Purescript
+### Purescript
 https://github.com/fjodorekstromjayway/adv-o-c-2016
 
-## Python
+### Python
 https://github.com/Prozen/AdventOfCode2016
