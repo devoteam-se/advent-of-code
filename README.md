@@ -17,6 +17,9 @@ https://github.com/JacobFerm/advent-of-code-2017
 ### Scala
 https://github.com/AntonFagerberg/advent_of_code_2017
 
+### Kotlin
+https://github.com/Prozen/AdventOfCode2017
+
 ## 2016
  
 https://adventofcode.com/2016
