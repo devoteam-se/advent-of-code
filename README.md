@@ -5,8 +5,14 @@ Using another language? Add it to the list (in alphabetical order)!
 
 ## 2017
 
+https://adventofcode.com/2017
+
 ### C# #
 https://github.com/msjogren/AdventOfCode2017
+
+### JavaScript
+
+https://github.com/jlowgren/adventofcode-2017
 
 ### F# #
 https://github.com/tlycken/advent-of-code-2017
@@ -33,7 +39,7 @@ https://github.com/AntonFagerberg/advent_of_code_2016
 ### Java
 https://github.com/larsostling/adventofcode2016
 
-### Purescript
+### PureScript
 https://github.com/fjodorekstromjayway/adv-o-c-2016
 
 ### Python
