@@ -44,6 +44,7 @@ https://github.com/fjodorekstromjayway/adv-o-c-2016
 
 ### Python
 https://github.com/Prozen/AdventOfCode2016
+https://github.com/jnsstnbrg/adventofcode-2017
 
 ## 2015
 https://adventofcode.com/2015
