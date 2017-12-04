@@ -21,6 +21,8 @@ https://github.com/Prozen/AdventOfCode2017
 ### Python
 https://github.com/JacobFerm/advent-of-code-2017
 
+https://github.com/jnsstnbrg/adventofcode-2017
+
 ### Scala
 https://github.com/AntonFagerberg/advent_of_code_2017
 
