@@ -14,6 +14,7 @@ https://github.com/tlycken/advent-of-code-2017
 
 ### JavaScript
 https://github.com/jlowgren/adventofcode-2017
+https://github.com/erikpantzar/advent-of-code-2017
 
 ### Kotlin
 https://github.com/Prozen/AdventOfCode2017
