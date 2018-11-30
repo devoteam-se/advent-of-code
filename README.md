@@ -9,6 +9,9 @@ https://adventofcode.com/2017
 ### C# #
 https://github.com/msjogren/AdventOfCode2017
 
+### Clojure #
+https://github.com/pirfalt/advent-of-code-2017
+
 ### F# #
 https://github.com/tlycken/advent-of-code-2017
 
