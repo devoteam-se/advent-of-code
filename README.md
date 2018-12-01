@@ -9,6 +9,8 @@ https://adventofcode.com/2018
 ### Haskell
 https://github.com/tomasaschan/advent-of-code-2018
 
+https://github.com/AlbinTheander/advent-of-code-2018
+
 ## 2017
 https://adventofcode.com/2017
 
@@ -23,6 +25,7 @@ https://github.com/tlycken/advent-of-code-2017
 
 ### JavaScript
 https://github.com/jlowgren/adventofcode-2017
+
 https://github.com/erikpantzar/advent-of-code-2017
 
 ### Kotlin
