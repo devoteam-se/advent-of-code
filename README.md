@@ -6,6 +6,9 @@ Using another language? Add it to the list (in alphabetical order)!
 ## 2018
 https://adventofcode.com/2018
 
+## Elm
+https://github.com/fbontin/adventofcode2018
+
 ### Haskell
 https://github.com/tomasaschan/advent-of-code-2018
 
