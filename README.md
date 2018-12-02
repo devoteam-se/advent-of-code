@@ -6,10 +6,16 @@ Using another language? Add it to the list (in alphabetical order)!
 ## 2018
 https://adventofcode.com/2018
 
+## Elm
+https://github.com/fbontin/adventofcode2018
+
 ### Haskell
 https://github.com/tomasaschan/advent-of-code-2018
 
 https://github.com/AlbinTheander/advent-of-code-2018
+
+### Javascript
+https://github.com/jonasstenberg/advent-of-code-2018
 
 ### Kotlin
 https://github.com/Prozen/AdventOfCode2018
