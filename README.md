@@ -14,6 +14,9 @@ https://github.com/tomasaschan/advent-of-code-2018
 
 https://github.com/AlbinTheander/advent-of-code-2018
 
+### Javascript
+https://github.com/jonasstenberg/advent-of-code-2018
+
 ## 2017
 https://adventofcode.com/2017
 
