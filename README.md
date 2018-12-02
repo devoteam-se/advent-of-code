@@ -17,6 +17,9 @@ https://github.com/AlbinTheander/advent-of-code-2018
 ### Javascript
 https://github.com/jonasstenberg/advent-of-code-2018
 
+### Kotlin
+https://github.com/Prozen/AdventOfCode2018
+
 ## 2017
 https://adventofcode.com/2017
 
