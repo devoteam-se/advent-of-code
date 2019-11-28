@@ -3,8 +3,17 @@
 Add a link to your repo under the matching language header.  
 Using another language? Add it to the list (in alphabetical order)!
 
+## 2019
+https://adventofcode.com/2019
+
+### C# #
+https://github.com/msjogren/AdventOfCode2019
+
 ## 2018
 https://adventofcode.com/2018
+
+### C# #
+https://github.com/msjogren/AdventOfCode2018
 
 ### Elm
 https://github.com/fbontin/adventofcode2018
