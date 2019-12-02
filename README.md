@@ -9,6 +9,9 @@ https://adventofcode.com/2019
 ### C# #
 https://github.com/msjogren/AdventOfCode2019
 
+### Go #
+https://github.com/JacobFerm/advent-of-code-2019
+
 ### Typescript
 https://github.com/fbontin/adventofcode2019
 
