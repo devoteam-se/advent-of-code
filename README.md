@@ -15,6 +15,8 @@ https://github.com/JacobFerm/advent-of-code-2019
 ### Typescript
 https://github.com/fbontin/adventofcode2019
 
+https://github.com/AlbinTheander/advent-of-code-2019
+
 ### Python
 https://github.com/fanneykristjans/advent-of-code-2019
 
