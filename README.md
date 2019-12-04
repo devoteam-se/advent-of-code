@@ -12,7 +12,10 @@ https://github.com/msjogren/AdventOfCode2019
 ### Go #
 https://github.com/JacobFerm/advent-of-code-2019
 
-### Typescript
+### JavaScript
+https://github.com/Flydiverny/adventofcode/tree/2019/js
+
+### TypeScript
 https://github.com/fbontin/adventofcode2019
 
 https://github.com/AlbinTheander/advent-of-code-2019
