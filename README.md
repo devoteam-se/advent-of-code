@@ -18,13 +18,16 @@ https://github.com/Flydiverny/adventofcode/tree/2019/js
 ### Kotlin
 https://github.com/AlbinTheander/advent-of-code-2019
 
+### Python
+https://github.com/fanneykristjans/advent-of-code-2019
+
+### Rockstar
+https://github.com/AlbinTheander/advent-of-code-2019
+
 ### TypeScript
 https://github.com/fbontin/adventofcode2019
 
 https://github.com/AlbinTheander/advent-of-code-2019
-
-### Python
-https://github.com/fanneykristjans/advent-of-code-2019
 
 ## 2018
 https://adventofcode.com/2018
