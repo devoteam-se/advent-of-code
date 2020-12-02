@@ -15,11 +15,11 @@ https://github.com/fbontin/adventofcode2020
 ### Haskell
 https://github.com/AlbinTheander/advent-of-code-2020
 
-### Typescript
-https://github.com/AlbinTheander/advent-of-code-2020
-
 ### Javascript
 https://github.com/litemerafrukt/advent-of-code-2020
+
+### Typescript
+https://github.com/AlbinTheander/advent-of-code-2020
 
 ## 2019
 https://adventofcode.com/2019
