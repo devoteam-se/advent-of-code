@@ -12,6 +12,8 @@ https://github.com/AlbinTheander/advent-of-code-2020
 ### ClojureScript
 https://github.com/fbontin/adventofcode2020
 
+https://github.com/pirfalt/adventofcode2020 (may switch it up with not only ClojureScript)
+
 ### Haskell
 https://github.com/AlbinTheander/advent-of-code-2020
 
