@@ -6,6 +6,9 @@ Using another language? Add it to the list (in alphabetical order)!
 ## 2020
 https://adventofcode.com/2020
 
+### C# #
+https://github.com/msjogren/AdventOfCode2020
+
 ### Clojure
 https://github.com/AlbinTheander/advent-of-code-2020
 
