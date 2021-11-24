@@ -3,6 +3,12 @@
 Add a link to your repo under the matching language header.  
 Using another language? Add it to the list (in alphabetical order)!
 
+## 2021
+https://adventofcode.com/2021
+
+### Elixir
+https://github.com/fbontin/adventofcode2021 (might use JS or Python as well)
+
 ## 2020
 https://adventofcode.com/2020
 
