@@ -9,6 +9,9 @@ https://adventofcode.com/2021
 ### Elixir
 https://github.com/fbontin/adventofcode2021 (might use JS or Python as well)
 
+### Kotlin
+https://github.com/MikeEnRegalia/AdventOfCode2021 (might use other languages as well)
+
 ## 2020
 https://adventofcode.com/2020
 
