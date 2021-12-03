@@ -12,6 +12,8 @@ https://github.com/fbontin/adventofcode2021 (might use JS or Python as well)
 ### Kotlin
 https://github.com/MikeEnRegalia/AdventOfCode2021 (might use other languages as well)
 
+https://github.com/VictorWinberg/advent-of-code-kotlin
+
 ### Rust
 https://github.com/AlbinTheander/advent-of-code-2021
 
