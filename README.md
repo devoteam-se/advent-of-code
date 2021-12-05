@@ -7,7 +7,7 @@ Using another language? Add it to the list (in alphabetical order)!
 https://adventofcode.com/2021
 
 ### Elixir
-https://github.com/fbontin/adventofcode2021 (might use JS or Python as well)
+https://github.com/fbontin/adventofcode/tree/main/2021 (might use JS or Python as well)
 
 ### Kotlin
 https://github.com/MikeEnRegalia/AdventOfCode2021 (might use other languages as well)
