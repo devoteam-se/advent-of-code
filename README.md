@@ -3,6 +3,12 @@
 Add a link to your repo under the matching language header.  
 Using another language? Add it to the list (in alphabetical order)!
 
+## 2022
+https://adventofcode.com/2022
+
+### Rust
+https://github.com/AndreasH96/AoC (Will probably use python as well)
+
 ## 2021
 https://adventofcode.com/2021
 
