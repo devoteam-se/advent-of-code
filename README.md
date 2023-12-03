@@ -3,6 +3,16 @@
 Add a link to your repo under the matching language header.  
 Using another language? Add it to the list (in alphabetical order)!
 
+## 2023
+https://adventofcode.com/2023
+
+### Go
+https://github.com/AlbinTheander/advent-of-code-2023 (Will do days when I have time and enerty)
+
+### TypeScript
+https://github.com/AlbinTheander/advent-of-code-2023
+
+
 ## 2022
 https://adventofcode.com/2022
 
