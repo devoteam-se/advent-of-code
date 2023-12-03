@@ -1,4 +1,4 @@
-# Jayway solutions to Advent of Code
+# Devoteam Sweden's solutions to Advent of Code
 
 Add a link to your repo under the matching language header.  
 Using another language? Add it to the list (in alphabetical order)!
